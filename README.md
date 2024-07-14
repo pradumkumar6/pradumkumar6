@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Pradum Kumar | Master's in Computer Science & Mathematics | Skilled in Backend & Android Development | Java Programming Enthusiast | IIT Dhanbad</h1>
 <h3 align="center">A passionate backend and Android developer with strong Java/Kotlin skills. Driven by curiosity and a love for learning new technologies.</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-- 🌱 I’m currently learning **Machine Learning**
+<!-- - 🌱 I’m currently learning **Machine Learning** -->
 
 - 💬 Ask me about **MERN,Java backend development and Android development.**
 
