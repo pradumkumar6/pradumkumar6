@@ -1,4 +1,4 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://linkedin.com/in/kumarpradum)
+[![MasterHead](https://img.freepik.com/free-photo/ai-nuclear-energy-background-future-innovation-disruptive-technology_53876-129783.jpg?w=740&t=st=1726296533~exp=1726297133~hmac=9637e3007ed396c9461b1583d4aacf3815219c243676fb3d605cbac17836a332)](https://linkedin.com/in/kumarpradum)
 <h1 align="center">Hi 👋, I'm Pradum Kumar | Master's in Computer Science & Mathematics | Skilled in Backend & Android Development | Java Programming Enthusiast | IIT Dhanbad</h1>
 <h3 align="center">A passionate backend and Android developer with strong Java/Kotlin skills. Driven by curiosity and a love for learning new technologies.</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
